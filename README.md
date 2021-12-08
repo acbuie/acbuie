@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/aidan_buie?style=for-the-badge&logo=twitter)](https://twitter.com/aidan_buie)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aidanbuie1997)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aidanbuie1997)
 
 <!--
 **acbuie/acbuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
