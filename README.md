@@ -4,8 +4,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/aidan_buie?style=flat-square&logo=twitter)](https://twitter.com/aidan_buie)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aidanbuie1997)
 
----
-
 I'm currently a GIS Technician at Utah State University's Remote Sensing/GIS Lab. I graduated from North Carolina - Chapel Hill in 2019, studying geology and environmental science. I'm interested in the intersection of remote sensing, planetary science, and programming, especially relating to image classifcation and analysis. 
 
 I'm mostly a self taught programmer, with a little academic background, so hopefully my page will fill up as I continue to learn. 
@@ -19,4 +17,9 @@ Here are some things I'm learning about:
 - Python packaging tools
 - Unit testing
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+---
+
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acbuie&show_icons=true&hide_border=true&include_all_commits=true&theme=dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbuie&show_icons=true&hide_border=true&theme=dark" />
+</div>
