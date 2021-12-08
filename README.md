@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Link](https://img.shields.io/twitter/follow/aidan_buie?logo=Twitter&style=social)]
+![Twitter Link](https://img.shields.io/twitter/follow/aidan_buie?logo=Twitter&style=social)
 
 <!--
 **acbuie/acbuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
