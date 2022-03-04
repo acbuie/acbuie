@@ -11,15 +11,13 @@ I'm mostly a self taught programmer, with a little academic background, so hopef
 ---
 
 Here are some things I'm learning about: 
-- CI Tools
-- Software design and architecture
-- Machine learning, especially CNN's and U-Nets
+- Command Line Interfaces
+- Software design, architecture, and testing
+- Machine learning, especially related to remote sensing and image analysis
 - Python packaging tools
-- Unit testing
 
 ---
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acbuie&show_icons=true&hide_border=true&include_all_commits=true&theme=dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbuie&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </div>
