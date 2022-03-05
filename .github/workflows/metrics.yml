@@ -18,7 +18,8 @@ jobs:
           user: acbuie
           template: classic
           base: header, activity, repositories
-          config_display: columns
+          config_display: large
+          config_padding: 0, 10 + 4%
           config_timezone: America/Denver
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
