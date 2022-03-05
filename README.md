@@ -18,6 +18,4 @@ Here are some things I'm learning about:
 
 ---
 
-<div align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</div>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
